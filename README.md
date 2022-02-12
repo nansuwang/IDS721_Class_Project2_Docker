@@ -2,10 +2,10 @@
 [![CI with Github Actions](https://github.com/nansuwang/IDS721_Class_Project2_Docker/actions/workflows/main.yml/badge.svg)](https://github.com/nansuwang/IDS721_Class_Project2_Docker/actions/workflows/main.yml)
 
 ## Introduction
-It is a demo project for assignment in IDS721 course.
-A Kubernetes based Continuous Delivery application is built.
+It is a demo project for the second assignment in the IDS721 course.
+A Kubernetes-based Continuous Delivery application is built.
 
-It is a Python script for select the kth largest element in a list.
+It is a Python script for selecting the kth largest element in a list.
 
 The application is based on the fast selection algorithm. Time complexity: <img src="https://render.githubusercontent.com/render/math?math=O(n)">
 
