@@ -7,7 +7,7 @@ A Kubernetes based Continuous Delivery application is built.
 
 It is a Python script for select the kth largest element in a list.
 
-The application is based on the fast selection algorithm.
+The application is based on the fast selection algorithm. Time complexity: $O(n)$
 
 The application is realized using FastAPI.
 
